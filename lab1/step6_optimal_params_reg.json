@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "n_neighbors": 5,
+    "weights": "uniform",
+    "metric": "minkowski",
+    "p": 4,
+    "algorithm": "auto",
+    "min_features_to_select": 8,
+    "rfecv_step": 3,
+    "cv_folds": 10
+  },
+  "best_rmse": 16.80777578790414
+}

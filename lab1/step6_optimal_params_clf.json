@@ -1,0 +1,12 @@
+{
+  "best_params": {
+    "n_neighbors": 27,
+    "weights": "distance",
+    "metric": "manhattan",
+    "algorithm": "auto",
+    "min_features_to_select": 3,
+    "rfecv_step": 5,
+    "cv_folds": 7
+  },
+  "best_accuracy": 0.8272198397075367
+}
