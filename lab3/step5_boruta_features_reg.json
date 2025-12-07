@@ -1,0 +1,32 @@
+{
+  "selected_features": [
+    "Pclass",
+    "SibSp",
+    "Parch",
+    "Pclass^2",
+    "Pclass SibSp",
+    "Pclass Parch",
+    "Age SibSp",
+    "Age Parch",
+    "Age Sex_male",
+    "Age Embarked_S",
+    "SibSp^2",
+    "SibSp Parch",
+    "SibSp Embarked_S",
+    "Parch^2",
+    "Parch Sex_male",
+    "Sex_male Embarked_S"
+  ],
+  "n_features": 16,
+  "boruta_params": {
+    "max_iter": 83,
+    "perc": 88,
+    "alpha": 0.12202459426352502,
+    "n_estimators": 160,
+    "rf_max_depth": 2,
+    "rf_min_samples_split": 10,
+    "rf_min_samples_leaf": 5,
+    "rf_max_features": null
+  },
+  "huber_loss": 16.85986424598679
+}

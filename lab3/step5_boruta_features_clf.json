@@ -1,0 +1,22 @@
+{
+  "selected_features": [
+    "Pclass Fare",
+    "Pclass Sex_male",
+    "Pclass Embarked_S",
+    "Age Fare",
+    "Age Sex_male"
+  ],
+  "n_features": 5,
+  "boruta_params": {
+    "max_iter": 114,
+    "perc": 95,
+    "alpha": 0.094585595242539,
+    "n_estimators": 84,
+    "rf_max_depth": 6,
+    "rf_min_samples_split": 13,
+    "rf_min_samples_leaf": 4,
+    "rf_max_features": null,
+    "class_weight": "balanced_subsample"
+  },
+  "accuracy": 0.8282828282828284
+}

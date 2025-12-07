@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": 5,
+    "criterion": "gini",
+    "splitter": "best",
+    "min_samples_split": 3,
+    "min_samples_leaf": 2,
+    "max_features": null,
+    "min_features_to_select": 3,
+    "rfecv_step": 5,
+    "cv_folds": 6
+  },
+  "best_accuracy": 0.8338699437692726
+}
