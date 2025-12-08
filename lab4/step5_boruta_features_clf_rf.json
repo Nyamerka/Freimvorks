@@ -1,0 +1,39 @@
+{
+  "selected_features": [
+    "Pclass",
+    "Age",
+    "Fare",
+    "Sex_male",
+    "Pclass^2",
+    "Pclass Age",
+    "Pclass SibSp",
+    "Pclass Parch",
+    "Pclass Fare",
+    "Pclass Sex_male",
+    "Pclass Embarked_S",
+    "Age^2",
+    "Age Fare",
+    "Age Sex_male",
+    "Age Embarked_S",
+    "SibSp Parch",
+    "SibSp Fare",
+    "Fare^2",
+    "Fare Sex_male",
+    "Fare Embarked_S",
+    "Sex_male^2",
+    "Sex_male Embarked_S"
+  ],
+  "n_features": 22,
+  "boruta_params": {
+    "max_iter": 66,
+    "perc": 87,
+    "alpha": 0.037497497460833334,
+    "n_estimators": 126,
+    "rf_max_depth": 5,
+    "rf_min_samples_split": 8,
+    "rf_min_samples_leaf": 3,
+    "rf_max_features": "sqrt",
+    "class_weight": null
+  },
+  "accuracy": 0.8350168350168351
+}

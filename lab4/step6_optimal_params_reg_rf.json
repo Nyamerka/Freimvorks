@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": 6,
+    "criterion": "absolute_error",
+    "n_estimators": 79,
+    "min_samples_split": 5,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "min_features_to_select": 4,
+    "rfecv_step": 4,
+    "cv_folds": 10
+  },
+  "best_rmse": 14.335119312942904
+}
