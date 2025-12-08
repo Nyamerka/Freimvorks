@@ -1,6 +1,6 @@
 # Сравнение всех лабораторных (Labs 1–5)
 
-![comparison_all_labs](lab5/comparison_all_labs.png)
+![comparison_all_labs](comparison_all_labs.png)
 
 ## Что внутри
 - `train.csv`, `test.csv` — исходные данные конкурса (классификация и регрессия).
