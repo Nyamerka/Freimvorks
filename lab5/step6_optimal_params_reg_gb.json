@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": 4,
+    "learning_rate": 0.04035719942595869,
+    "n_estimators": 114,
+    "min_samples_split": 12,
+    "min_samples_leaf": 3,
+    "max_features": null,
+    "min_features_to_select": 5,
+    "rfecv_step": 1,
+    "cv_folds": 10
+  },
+  "best_rmse": 16.797953763691797
+}

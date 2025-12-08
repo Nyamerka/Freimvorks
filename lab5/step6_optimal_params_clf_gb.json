@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": 2,
+    "n_estimators": 300,
+    "learning_rate": 0.14979269889096167,
+    "min_samples_split": 20,
+    "min_samples_leaf": 9,
+    "max_features": null,
+    "min_features_to_select": 11,
+    "rfecv_step": 1,
+    "cv_folds": 9
+  },
+  "best_accuracy": 0.8439955106621774
+}
